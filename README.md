@@ -22,7 +22,7 @@ Feel free to explore my projects or reach out if you’d like to connect!
 ## 🧩 Projects
 
 **Currently working on:**  
-- [Command-line Contact Manager](https://github.com/yourusername/contact-manager) – a first project to practice C fundamentals and structured programming.  
+- [Command-line Contact Manager](https://github.com/MatthiasThreatLab/CLI-Contact-Manager) – a first project to practice C fundamentals and structured programming.  
 
 **Planned Projects:**  
 - Text-based database engine  
