@@ -21,16 +21,18 @@ Feel free to explore my projects or reach out if you’d like to connect!
 
 ## 🧩 Projects
 
-**Currently working on:**  
-- [Command-line Contact Manager](https://github.com/MatthiasThreatLab/CLI-Contact-Manager) – a first project to practice C fundamentals and structured programming.  
+**Currently working on:**
+- Text-based database engine – A small text-based database engine: support creating named tables, inserting rows, querying by simple conditions, updating rows, and exporting/importing in a compact binary format.  
 
-**Planned Projects:**  
-- Text-based database engine  
+**Planned Projects:**
 - Plugin-capable image processing tool  
 - Command-line backup and versioning tool  
 - GUI app that launches and monitors other programs
 - Modular service & autostart manager with plugin support
 
+**Finished Projects:**
+- [Command-line Contact Manager](https://github.com/MatthiasThreatLab/CLI-Contact-Manager) – a first project to practice C fundamentals and structured programming.
+  
 ---
 
 > _“Every line of code gets me one step closer to understanding how malware really works.”_
